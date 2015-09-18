@@ -7,7 +7,8 @@ Some formulae for which I had a need
 brew install agravier/tap/<formula>
 ```
 
-Or 
+Or, if the formula name does not conflict with an existing built-in 
+formula (e.g. don't use the commands below for *minizinc*):
 
 ```
 brew tap agravier/tap
